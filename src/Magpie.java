@@ -70,6 +70,12 @@ public class Magpie {
 		}
 		return response;
 	}
+	else if(statement.indexOf(str:"Adiletta")!=-1{
+		statement.indexOf(str:"Mr.A")!=-1){
+		respone="He sounds like a good teacher.";
+		}
+		else
+		{
 	
 	/**
 	 * Pick a default response to use if nothing else fits.
@@ -106,7 +112,9 @@ public class Magpie {
 		{
 			response = "That's what you wanted to say.";
 		}
-
+		else if () {
+		
+		}
 		
 		
 		return response;
